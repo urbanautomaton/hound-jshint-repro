@@ -12,6 +12,8 @@
   "undef": true,
   "unused": true,
   "strict": true,
+  "predef": [],
+  "quotmark": false,
 
   "browser": true,
   "devel": true,
